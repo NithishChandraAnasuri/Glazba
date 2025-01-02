@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e3f2fd;
+}
+h1 {
+  text-align: center;
+  margin: 200px;
+}
+h4 {
+  text-align: center;
+  margin-top: -170px;
+  margin-left: 40px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #e3f2fd;
+  }
+  h1 {
+    text-align: center;
+    margin: 200px;
+  }
+  h4 {
+    text-align: center;
+    margin-top: -170px;
+    margin-left: 40px;
+  }
+}
